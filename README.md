@@ -1,10 +1,10 @@
 # Customer Segmentation & Behavioral Analytics with R
 
-# Overview
+## Overview
 
 This project applies customer segmentation and behavioral analytics to a banking credit card campaign using R. The goal is to identify high-potential customers for an SMS-based cashback campaign by analyzing spending behavior, customer profiles, and communication permissions.
 
-# Business Context
+## Business Context
 
 * Campaign incentive: 5 percent cashback on grocery and fuel spending, capped at 200 TL per month
 * Target customers:
@@ -15,7 +15,7 @@ This project applies customer segmentation and behavioral analytics to a banking
 
   * SMS for customers who allow SMS communication
 
-# Dataset
+## Dataset
 
 * Customer Information
 
@@ -25,7 +25,7 @@ This project applies customer segmentation and behavioral analytics to a banking
   * Credit card spending by category for June to August
 * Total customers analyzed: 3,000
 
-# Tools
+## Tools
 
 * R Programming Language
 * tidyverse
@@ -34,7 +34,7 @@ This project applies customer segmentation and behavioral analytics to a banking
 * readxl
 * writexl
 
-# Analytical Steps
+## Analytical Steps
 
 * Data cleaning and standardization
 * Monthly spending aggregation by category
@@ -44,7 +44,7 @@ This project applies customer segmentation and behavioral analytics to a banking
 * SMS-eligible customer filtering
 * Customer profiling of target segments
 
-# Segmentation Logic
+## Segmentation Logic
 
 * Strategic Target
 
@@ -55,25 +55,27 @@ This project applies customer segmentation and behavioral analytics to a banking
   * Low market and fuel spending
   * High other-category spending
 
-# Key Results
+## Key Results
 
 * Strategic Target customers show the highest expected conversion potential
 * Potential Development customers are suitable for follow-up campaigns
 * Discretionary spending is a strong indicator of SMS campaign responsiveness
 
-# Deliverables
+## Deliverables
 
 * Clean analytical dataset
 * Visual insights for decision-making
 * target_customer_list.xlsx with campaign-ready customers
 
-# Business Impact
+<img width="3000" height="2100" alt="Strategic_Potential_SMS_Customers" src="https://github.com/user-attachments/assets/31af0606-d7a9-422b-afac-8c6d553015b7" />
+
+## Business Impact
 
 * More efficient and focused marketing outreach
 * Reduced communication noise
 * Higher expected campaign ROI
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 * Data cleaning and transformation
 * Exploratory data analysis
